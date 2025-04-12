@@ -1,0 +1,48 @@
+テキストはこんな感じ　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　achieve - 達成する - アチーブ - I want to achieve my goal. - 私は目標を達成したい。 - He achieved great success. - 彼は大きな成功を収めた。 - You can achieve anything. - あなたは何でも達成できる。
+improve - 改善する - インプルーブ - I want to improve my English. - 私は英語を改善したい。 - She improved her cooking skills. - 彼女は料理の腕を上達させた。 - We need to improve our service. - 私たちはサービスを改善する必要があります。
+recommend - おすすめする - レコメンド - I recommend this book. - この本をおすすめします。 - Can you recommend a good restaurant? - いいレストランを教えてくれますか？ - He recommended that I take a break. - 彼は私に休憩を取るよう勧めた。
+participate - 参加する - パーティシペイト - I participated in the meeting. - 私は会議に参加しました。 - Many students participated in the contest. - 多くの学生がコンテストに参加しました。 - She doesn’t usually participate in events. - 彼女は普段イベントに参加しません。
+develop - 開発する - ディベロップ - They developed a new app. - 彼らは新しいアプリを開発しました。 - He developed a strong interest in music. - 彼は音楽に強い興味を持つようになった。 - This area has developed quickly. - この地域は急速に発展しました。
+describe - 説明する - ディスクライブ - Can you describe what you saw? - あなたが見たものを説明してくれますか？ - She described the place in detail. - 彼女はその場所を詳しく説明しました。 - He described the painting as beautiful. - 彼はその絵を美しいと表現しました。
+purchase - 購入する - パーチェス - I purchased a jacket online. - ネットでジャケットを購入しました。 - She purchased a new phone yesterday. - 彼女は昨日新しい携帯を買った。 - They purchased the tickets in advance. - 彼らはチケットを前もって購入しました。
+reserve - 予約する - リザーブ - We reserved a room at the hotel. - 私たちはホテルの部屋を予約しました。 - I want to reserve a table for dinner. - 夕食のテーブルを予約したいです。 - He reserved a seat online. - 彼はオンラインで席を予約しました。
+cancel - キャンセルする - キャンセル - I had to cancel my appointment. - 私は予約をキャンセルしました。 - The flight was canceled due to the storm. - 嵐のためフライトがキャンセルされました。 - She canceled her trip to Tokyo. - 彼女は東京への旅行をキャンセルしました。
+prepare - 準備する - プリペア - She prepared dinner for her family. - 彼女は家族のために夕食を準備しました。 - I need to prepare for the test. - 試験の準備をしないといけません。 - They prepared everything in advance. - 彼らはすべて前もって準備しました。
+arrange - 手配する - アレンジ - He arranged a taxi for us. - 彼は私たちのためにタクシーを手配した。 - I arranged the files in order. - 書類を順番に並べました。 - Can you arrange a meeting? - 会議の手配をしてくれますか？
+organize - 整理する - オーガナイズ - I organized my closet yesterday. - 昨日クローゼットを整理した。 - She organizes events at work. - 彼女は職場でイベントを企画しています。 - We need to organize the data. - データを整理する必要があります。
+attend - 出席する - アテンド - I attended the lecture yesterday. - 昨日講義に出席しました。 - She attends a yoga class every week. - 彼女は毎週ヨガクラスに出ている。 - Did you attend the meeting? - 会議に出席しましたか？
+explore - 探検する - エクスプロア - We explored the forest all day. - 私たちは一日中森を探検しました。 - He loves to explore new cities. - 彼は新しい街を探検するのが好きです。 - Let’s explore the museum. - 博物館を見て回りましょう。
+discover - 発見する - ディスカバー - Columbus discovered America. - コロンブスはアメリカを発見しました。 - I discovered a great café. - 素晴らしいカフェを見つけました。 - She discovered her talent in art. - 彼女は芸術の才能を発見しました。
+increase - 増やす - インクリース - Sales increased this month. - 今月の売上が増えました。 - I want to increase my vocabulary. - 語彙力を増やしたいです。 - The population is increasing. - 人口が増加しています。
+decrease - 減らす - ディクリース - We need to decrease costs. - コストを削減する必要があります。 - His stress has decreased. - 彼のストレスは減ってきた。 - The temperature will decrease. - 気温が下がるでしょう。
+solve - 解決する - ソルヴ - We must solve this problem. - この問題を解決しなければならない。 - He solved the puzzle. - 彼はパズルを解いた。 - Can you solve this math question? - この数学の問題解ける？
+explain - 説明する - エクスプレイン - Can you explain the rules? - ルールを説明してくれますか？ - She explained everything clearly. - 彼女はすべてを明確に説明しました。 - I’ll explain later. - あとで説明します。
+apply - 申し込む - アプライ - I applied for a job. - 仕事に応募しました。 - She applied to a university. - 彼女は大学に出願しました。 - You can apply online. - オンラインで申し込めます。
+avoid - 避ける - アヴォイド - Avoid using your phone too much. - 携帯を使いすぎないように。 - I avoided that area. - 私はその地域を避けた。 - He avoided making eye contact. - 彼は目を合わせるのを避けた。
+allow - 許可する - アラウ - They allowed us to enter. - 彼らは私たちの入場を許可した。 - Smoking is not allowed. - 喫煙は禁止されています。 - My parents don’t allow me to go out late. - 両親は遅くまでの外出を許してくれない。
+require - 必要とする - リクワイア - This job requires experience. - この仕事には経験が必要です。 - It requires time and effort. - 時間と努力が必要です。 - A visa is required. - ビザが必要です。
+receive - 受け取る - リシーブ - I received your message. - あなたのメッセージを受け取りました。 - Did you receive my email? - 私のメールを受け取りましたか？ - She received a gift. - 彼女はプレゼントを受け取った。
+deliver - 配達する - デリヴァー - The package was delivered today. - 荷物は今日届きました。 - They deliver food to your house. - 彼らは家まで食べ物を配達します。 - I’ll deliver it tomorrow. - 明日それを届けます。
+contact - 連絡する - コンタクト - Please contact me anytime. - いつでも連絡してください。 - I’ll contact the manager. - マネージャーに連絡します。 - Have you contacted her? - 彼女に連絡しましたか？
+support - 支援する - サポート - Thank you for your support. - 支援ありがとうございます。 - She supports her family. - 彼女は家族を支えています。 - We support local businesses. - 私たちは地元の企業を支援しています。
+handle - 対処する - ハンドル - He handled the situation well. - 彼はうまく状況に対処しました。 - Can you handle this task? - この作業をやってくれる？ - I’ll handle it. - 私がやるよ。
+fix - 修理する - フィックス - Can you fix my phone? - 私の携帯を直してくれますか？ - He fixed the car himself. - 彼は自分で車を直しました。 - I need to fix this chair. - この椅子を直さないと。
+operate - 操作する - オペレイト - He operates a crane. - 彼はクレーンを操作します。 - I can’t operate this machine. - この機械を操作できません。 - Do you know how to operate it? - それの使い方わかる？
+confirm - 確認する - コンファーム - Please confirm your email. - メールを確認してください。 - I confirmed the reservation. - 予約を確認しました。 - Can you confirm the schedule? - スケジュールを確認してくれますか？
+notice - 気づく - ノーティス - I noticed a mistake. - ミスに気づきました。 - Did you notice the change? - 変化に気づいた？ - She didn’t notice me. - 彼女は私に気づかなかった。
+recognize - 認識する - レコグナイズ - I recognized his voice. - 彼の声を聞いてわかった。 - She recognized the song. - 彼女はその曲を聞き覚えがあった。 - He was recognized for his work. - 彼は仕事ぶりを評価された。
+realize - 気づく - リアライズ - I realized my mistake. - 自分のミスに気づいた。 - She realized he was gone. - 彼がいなくなったと気づいた。 - Did you realize it? - 気づいてた？
+compare - 比べる - コンペア - Compare these two photos. - この2枚の写真を比べて。 - I compared prices. - 価格を比較しました。 - Don’t compare yourself to others. - 自分を他人と比べないで。
+decide - 決める - デサイド - I decided to stay home. - 家にいることに決めました。 - She decided not to go. - 彼女は行かないことにした。 - We decided together. - 私たちは一緒に決めた。
+agree - 同意する - アグリー - I agree with you. - 君に同意するよ。 - We all agreed on the plan. - 私たちはみんなその計画に賛成しました。 - Do you agree? - 賛成ですか？
+disagree - 反対する - ディスアグリー - I disagree with that idea. - その意見には反対です。 - She disagreed strongly. - 彼女は強く反対しました。 - We often disagree. - 私たちはよく意見が合わない。
+apologize - 謝る - アポロジャイズ - I apologize for the mistake. - ミスを謝罪します。 - She apologized to her friend. - 彼女は友達に謝った。 - He never apologizes. - 彼は決して謝らない。
+complain - 苦情を言う - コンプレイン - He complained about the food. - 彼は食事に文句を言った。 - She’s always complaining. - 彼女はいつも文句を言っている。 - Customers complained a lot. - お客さんがたくさん文句を言った。
+suggest - 提案する - サジェスト - I suggest taking a break. - 少し休憩することを提案します。 - He suggested a new idea. - 彼は新しいアイデアを提案した。 - Can you suggest something? - 何か提案してくれる？
+remind - 思い出させる - リマインド - Please remind me later. - あとで思い出させてください。 - She reminded me of the meeting. - 彼女は私に会議のことを思い出させた。 - That song reminds me of home. - あの歌は故郷を思い出させる。
+warn - 警告する - ウォーン - He warned me about the dog. - 彼は犬に気をつけるよう警告した。 - She warned us to be careful. - 彼女は注意するように言った。 - I warned him, but he didn’t listen. - 警告したけど彼は聞かなかった。
+protect - 守る - プロテクト - Sunscreen protects your skin. - 日焼け止めは肌を守る。 - This jacket protects against rain. - このジャケットは雨を防ぐ。 - We must protect the environment. - 環境を守らなければならない。
+afford - 〜する余裕がある - アフォード - I can't afford a car. - 車を買う余裕がない。 - She can’t afford to travel. - 彼女は旅行する余裕がない。 - We can afford it now. - 今ならそれを買う余裕がある。
+depend - 頼る - ディペンド - I depend on my friends. - 私は友達に頼っています。 - It depends on the weather. - 天気次第です。 - Don’t depend on others too much. - 他人に頼りすぎないで。
+belong - 属する - ビロング - This pen belongs to me. - このペンは私のです。 - He belongs to a music club. - 彼は音楽クラブに所属しています。 - That book belongs on the shelf. - その本は棚にあるべきです。
+contain - 含む - コンテイン - This drink contains sugar. - この飲み物には砂糖が含まれています。 - The box contains books. - 箱の中には本が入っている。 - Does it contain nuts? - ナッツが入っていますか？
